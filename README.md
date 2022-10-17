@@ -3,7 +3,7 @@
 The reproduce the results:
 
 - Familiarise yourself with PyPSA-Eur and how to install it.
-- Run the submodule incl. its environments and implement the script provided in "Model_script_github".
+- Run the submodule incl. its environments and implement the script provided in "Model_script_github". To install this repo type: `git clone --recursive https://github.com/pz-max/unintended-storage-cycling.git` (--recursive is necessary to retrieve also the submodule content which refers to one specific PyPSA-Eur version)
 - Especially, the "config.yaml" within the "Model_script_github" folder need to be adjusted to create three different solver scenarios (see preprint)
 
 
